@@ -1,4 +1,9 @@
-- `git checkout -b nom-branche`
-- `git add fichier.ext`
-- `git commit -m "message"`
-- `git push origin nom-branche`
+- git init
+- git add
+- git push -u origin main
+- git remote add origin https://github.com/Aziz-Querhani/Mon-Projet-Problem-Solving.git
+- git push -u origin main 
+- git checkout -b nom-branche
+- git add fichier.ext
+- git commit -m "message"
+- git push origin nom-branche
