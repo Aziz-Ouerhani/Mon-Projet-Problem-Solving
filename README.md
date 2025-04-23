@@ -1,1 +1,4 @@
-# Mon-Projet-Problem-Solving
+- `git checkout -b nom-branche`
+- `git add fichier.ext`
+- `git commit -m "message"`
+- `git push origin nom-branche`
